@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_078_lvboxingzhe",
+  "github_login": "hao-suan-hao",
+  "generator": "claude-code-collector@1.2.0",
+  "updated_at": "2026-07-12T14:02:59.113Z",
+  "sessions": [
+    {
+      "session_id": "210e7c24-80c2-4ce2-9b5e-436169bd0e07",
+      "tool": "claude-code",
+      "started_at": "2026-07-12T14:02:14.142Z",
+      "last_event_at": "2026-07-12T14:02:59.112Z",
+      "event_count": 3,
+      "raw_event_count": 12,
+      "file_path": "logs/hao-suan-hao/2026-07-12/claude-code__210e7c24-80c2-4ce2-9b5e-436169bd0e07.jsonl",
+      "collection_mode": "cli",
+      "health": "ok",
+      "model": "mimo-v2.5-pro"
+    }
+  ]
+}
